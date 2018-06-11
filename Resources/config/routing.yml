@@ -1,3 +1,0 @@
-company_common_homepage:
-    path:     /
-    defaults: { _controller: CompanyCommonBundle:Default:index }
